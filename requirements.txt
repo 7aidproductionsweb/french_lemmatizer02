@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+# On installe directement la bibliothèque depuis GitHub
+git+https://github.com/ClaudeCoulombe/FrenchLefffLemmatizer.git
